@@ -10,11 +10,7 @@ Make sure you install all the required dependencies with npm i in the package.js
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+I followed the in class activities to get the boiler code and how to structure the files according the the MVC file structure. 
 
 ## License
 
